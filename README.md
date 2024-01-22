@@ -17,6 +17,6 @@
 
 `this is code that does nothing`
 ---
-[current date and time](time.gov)
+[current date and time](https://time.gov/)
 
 ![Washington Street Early in the Morning](washington.jpg)
