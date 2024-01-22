@@ -2,7 +2,7 @@
 **this text is bold**
 
 *this text is italicized*
-> this is a blockquote\n
+> this is a blockquote\
 > line two of blockquote
 1. ordered list element 1
 2. ordered list element 2
