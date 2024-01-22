@@ -14,7 +14,9 @@
 - unordered list element #
 - unordered list element $
 - unordered list element %
-\`this is code that does nothing`
+
+`this is code that does nothing`
 ---
-[current date and time](https://time.gov/)\
+[current date and time](https://time.gov/)
+
 ![Washington Street Early in the Morning](washington.jpg)
