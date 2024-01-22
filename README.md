@@ -1,5 +1,6 @@
 # Heading for repo d6 README.md
 **this text is bold**
+
 *this text is italicized*
 > this is a blockquote
 > line two of blockquote
