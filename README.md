@@ -13,7 +13,7 @@
 - unordered list element #
 - unordered list element $
 - unordered list element %
-`this is code that does nothing`
+`\nthis is code that does nothing`
 ---
 [current date and time](time.gov)
 ![Washington Street Early in the Morning](washington.jpg)
