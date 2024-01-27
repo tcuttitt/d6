@@ -3,16 +3,17 @@
 *this text is italicized*
 > this is a blockquote\
 > line two of blockquote
-1. ordered list element 1
-2. ordered list element 2
-3. ordered list element 3
-4. ordered list element 4
-5. ordered list element 5
-- unordered list element !
-- unordered list element @
-- unordered list element #
-- unordered list element $
-- unordered list element %
+AFC EAST:
+1. Bills
+2. Dolphins
+3. Jets
+4. Patriots
+Fruits:
+- Apple
+- Orange
+- Banana
+- Watermelon
+- Grape
 
 `this is code that does nothing`
 ---
