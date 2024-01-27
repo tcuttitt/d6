@@ -4,7 +4,7 @@
 > this is a blockquote\
 > line two of blockquote
 
-AFC EAST:
+AFC East:
 1. Bills
 2. Dolphins
 3. Jets
