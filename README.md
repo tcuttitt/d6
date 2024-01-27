@@ -9,6 +9,7 @@ AFC EAST:
 2. Dolphins
 3. Jets
 4. Patriots
+
 Fruits:
 - Apple
 - Orange
