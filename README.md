@@ -1,6 +1,5 @@
 # Heading for repo d6 README.md
 **this text is bold**
-
 *this text is italicized*
 > this is a blockquote\
 > line two of blockquote
@@ -17,6 +16,6 @@
 
 `this is code that does nothing`
 ---
-[current date and time](https://time.gov/)
+[current time](https://time.gov/)
 
 ![Washington Street Early in the Morning](washington.jpg)
