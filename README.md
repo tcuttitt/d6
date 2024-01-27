@@ -3,6 +3,7 @@
 *this text is italicized*
 > this is a blockquote\
 > line two of blockquote
+
 AFC EAST:
 1. Bills
 2. Dolphins
