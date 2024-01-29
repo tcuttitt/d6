@@ -1,21 +1,25 @@
-# Heading for repo d6 README.md
-**this text is bold**\
-*this text is italicized*
-> this is a blockquote\
-> line two of blockquote
+# README.md for d6 repo
+**EE 322 Lab Repo**\
+*Spring 2024*
 
-AFC East:
-1. Bills
-2. Dolphins
-3. Jets
-4. Patriots
+> "The three most dangerous things in the world are a programmer with a soldering iron, a hardware type with a program patch, and a user with an idea."\
+> -Rick Cook
 
-Fruits:
-- Apple
-- Orange
-- Banana
-- Watermelon
-- Grape
+Labs:
+1. Lab 1
+2. Lab 2
+3. Lab 3
+4. Lab 4
+5. Lab 5
+6. Lab 6
+7. Lab 7
+8. Lab 8
+9. Lab 9
+10. Lab 10
+
+Teammates:
+- Kamil
+- Raymond
 
 Random Line of Code
 
