@@ -20,6 +20,8 @@ Labs:
 Teammates:
 - Kamil
 - Raymond
+- Cooper
+- Owen
 
 Random Line of Code
 
