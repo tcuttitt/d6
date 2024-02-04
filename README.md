@@ -6,7 +6,7 @@
 > -Rick Cook
 
 Labs:
-1. [Lab 1](Lab_1)
+1. [Lab 1](Lab_01)
 2. Lab 2
 3. Lab 3
 4. Lab 4
