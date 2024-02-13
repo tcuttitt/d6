@@ -8,7 +8,7 @@
 Labs:
 1. [Lab 1](Lab_01)
 2. [Lab 2](Lab_02)
-3. Lab 3
+3. [Lab 3](Lab_03)
 4. Lab 4
 5. Lab 5
 6. Lab 6
