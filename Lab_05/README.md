@@ -12,7 +12,7 @@ When I first ran the programs, I revieced this error saying it was missing an ar
 
 ![Error](error.png)
 
-Luckily after a few minutes of looking online, I found that the source if the issue is a recent (early Febuary 2024) update to Paho-MQTT. I found the [migrations page](https://github.com/eclipse/paho.mqtt.python/blob/v2.0.0/docs/migrations.rst) which said to simply add `mqtt.CallbackAPIVersion.VERSION1` as the first argument in the `Client()` call. And finally...
+Luckily after a few minutes of looking online, I found that the source of the issue is a recent (early Febuary 2024) update to Paho-MQTT. I found the [migrations page](https://github.com/eclipse/paho.mqtt.python/blob/v2.0.0/docs/migrations.rst) which said to simply add `mqtt.CallbackAPIVersion.VERSION1` as the first argument in the `Client()` call. And finally...
 
 ## Output
 
