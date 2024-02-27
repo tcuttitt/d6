@@ -2,7 +2,7 @@
 
 I first started off by pulling the latest version of the iot repo.
 
-![Pulling the iot repo](pulling_iot_repo.png)
+![Pulling the iot repo](pull_iot_repo.png)
 
 I then went ahead and installed Paho-MQTT.
 
