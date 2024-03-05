@@ -4,7 +4,7 @@ I installed the required packages by downloading Node.js from the website, and t
 
 ![Installing Pystache](installs.png)
 
-I then ran all the js files in Powershell, and then viewed the output in a browser. Finally, I ran the lone python script in the same PowerShell window.
+I then ran all the js files in PowerShell, and then viewed the output in a browser. Finally, I ran the lone python script in the same PowerShell window.
 
 ## Output
 
@@ -22,4 +22,4 @@ I then ran all the js files in Powershell, and then viewed the output in a brows
 
 ### PowerShell Window and Python Output
 
-![Powershell Window](output.png)
+![PowerShell Window](output.png)
