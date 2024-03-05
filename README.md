@@ -11,7 +11,7 @@ Labs:
 3. [Lab 3](Lab_03)
 4. Lab 4
 5. [Lab 5](Lab_05)
-6. Lab 6
+6. [Lab 6](Lab_06)
 7. Lab 7
 8. Lab 8
 9. Lab 9
